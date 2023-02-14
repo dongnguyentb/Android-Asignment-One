@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AssignmentOne</string>
+    <string name="sign_in_desc">Donec facilisis tortor ut augue lacinia at viverra ast sempor Sed sapien</string>
+    <string name="sign_in_text">Sign in</string>
+    <string name="username_hint">username</string>
+    <string name="password_text">password</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="here">here</string>
+    <string name="_1h20m">1h20m</string>
+    <string name="movie_desc">Mike Banning, a secret service agent, is assigned to protect the US president. Things take a turn when Mike is falsely accused of carrying out an attack against the president while on a fishing trip.</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
